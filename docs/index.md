@@ -43,10 +43,18 @@ header {
   text-align: center;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .content-summary {
   font-size: 1.2em;
   margin-top: 72px;
   margin-bottom: 72px;
+}
+
+.content-support {
+  margin-top: 144px;
 }
 </style>
 
@@ -87,4 +95,17 @@ header {
 
     Integrated with Git, you can manage history.
 
+</div>
+
+---
+
+<div class="text-center content-support" markdown>
+
+Your support will help us improve the app and reach more people.  
+We sincerely appreciate it!
+
+<a href="https://www.buymeacoffee.com/yamagh"><img src="https://img.buymeacoffee.com/button-api/?text=Support Now&emoji=❤️&slug=yamagh&button_colour=fefcdd&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+<!-- <div class="github-card" data-github="yamagh/yaml-sticky-notes" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script> -->
 </div>
