@@ -54,7 +54,7 @@ header {
   <h1>Yaml Sticky Notes</h1>
   <h3>Visualize, organize, and manage ideas effortlessly.</h3>
   <div>
-    <a class="md-button md-button--primary" href="/app">LAUNCH APP</a>
+    <a class="md-button md-button--primary" href="app">LAUNCH APP</a>
   </div>
   <div>
     <img src="assets/images/hero.png">
